@@ -1,5 +1,5 @@
 # 💫 About Me:
-📱 iOS Engineer<br>🔭 I’m currently working as a Developer Intern at Altra Federal Credit Union.<br>🧠 Learning mobile app development with Swift, Flutter and Dart.<br>👨🏼‍💻 I’m looking to collaborate on iOS Apps.<br>💬 Ask me about Swift, SwiftUI, Firebase, and all things Apple!<br>📫 How to reach me: brendan.losinski@yahoo.com<br>⚡ Fun fact: I used to race go-karts! 🏎️
+📱 iOS Engineer<br>🔭 I’m currently working as a iOS Software Engineer at Fastenal.<br>🧠 Learning mobile app development with Swift, Flutter and Dart.<br>👨🏼‍💻 I’m looking to collaborate on iOS Apps.<br>💬 Ask me about Swift, SwiftUI, Firebase, and all things Apple!<br>📫 How to reach me: brendan.losinski@yahoo.com<br>⚡ Fun fact: I used to race go-karts! 🏎️
 
 
 ## 🌐 Socials:
